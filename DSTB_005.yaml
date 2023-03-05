@@ -1,5 +1,5 @@
 proxies:
-- name: danu05_VsionCtn05
+- name: danu05_LiveCtn05
   type: trojan
   server: beacon.liveon.id
   port: 443
