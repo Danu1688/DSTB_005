@@ -1,7 +1,7 @@
 proxies:
 - name: Adnan_LiveDO_1
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: a71b66c5-37ee-445b-901c-70be18502fac
   udp: true
